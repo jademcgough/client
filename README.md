@@ -15,9 +15,9 @@ Goals:
 
 Start with the [user's guide](docs/README.md) and from there you can can read about common use cases, get detail docs on each command, and even how to extend the `kn` CLI. Links below for easy access.
 
-* [User's guide](docs/README.md)
-* [Basic workflows](docs/workflows.md) (use cases)
-* [Generated documentation](docs/cmd/kn.md)
+- [User's guide](docs/README.md)
+- [Basic workflows](docs/workflows.md) (use cases)
+- [Generated documentation](docs/cmd/kn.md)
 
 **Bash auto completion:**
 
@@ -39,8 +39,8 @@ describe get
 
 # Developers
 
-If you'd like to contribute, please see
-[CONTRIBUTING](https://github.com/knative/docs/blob/master/contributing/CONTRIBUTING.md)
+If you'd like to contribute, please see our
+[contribution guidelines](https://knative.dev/contributing/)
 for more information.
 
 To build `kn`, see our [Development](DEVELOPMENT.md) guide.
